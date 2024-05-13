@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\bin\Debug\net8.0\Monte Carlo.exe
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\bin\Debug\net8.0\Monte Carlo.deps.json
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\bin\Debug\net8.0\Monte Carlo.runtimeconfig.json
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\bin\Debug\net8.0\Monte Carlo.dll
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\bin\Debug\net8.0\Monte Carlo.pdb
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.dll
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\refint\Monte Carlo.dll
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.pdb
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\Monte Carlo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Algorytmy\Monte Carlo\obj\Debug\net8.0\ref\Monte Carlo.dll

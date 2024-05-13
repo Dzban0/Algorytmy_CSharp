@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funkcja sześcienna", "Funkcja sześcienna.csproj", "{C8CC60B9-3DF4-4EFC-992D-F1A05376239D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CC60B9-3DF4-4EFC-992D-F1A05376239D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CC60B9-3DF4-4EFC-992D-F1A05376239D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CC60B9-3DF4-4EFC-992D-F1A05376239D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CC60B9-3DF4-4EFC-992D-F1A05376239D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E5513F-B058-47CD-84F0-D5E0716723CF}
+	EndGlobalSection
+EndGlobal

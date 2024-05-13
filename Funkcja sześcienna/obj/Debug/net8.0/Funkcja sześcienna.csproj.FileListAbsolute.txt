@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\bin\Debug\net8.0\Funkcja sześcienna.exe
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\bin\Debug\net8.0\Funkcja sześcienna.deps.json
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\bin\Debug\net8.0\Funkcja sześcienna.runtimeconfig.json
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\bin\Debug\net8.0\Funkcja sześcienna.dll
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\bin\Debug\net8.0\Funkcja sześcienna.pdb
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.dll
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\refint\Funkcja sześcienna.dll
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.pdb
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\Funkcja sześcienna.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Algorytmy\Funkcja sześcienna\obj\Debug\net8.0\ref\Funkcja sześcienna.dll

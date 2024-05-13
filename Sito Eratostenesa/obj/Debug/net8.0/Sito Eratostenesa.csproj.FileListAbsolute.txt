@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\bin\Debug\net8.0\Sito Eratostenesa.exe
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\bin\Debug\net8.0\Sito Eratostenesa.deps.json
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\bin\Debug\net8.0\Sito Eratostenesa.runtimeconfig.json
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\bin\Debug\net8.0\Sito Eratostenesa.dll
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\bin\Debug\net8.0\Sito Eratostenesa.pdb
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.dll
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\refint\Sito Eratostenesa.dll
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.pdb
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\Sito Eratostenesa.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Algorytmy\Sito Eratostenesa\obj\Debug\net8.0\ref\Sito Eratostenesa.dll

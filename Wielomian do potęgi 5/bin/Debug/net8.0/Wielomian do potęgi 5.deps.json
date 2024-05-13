@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wielomian do potęgi 5/1.0.0": {
+        "runtime": {
+          "Wielomian do potęgi 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wielomian do potęgi 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

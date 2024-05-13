@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\bin\Debug\net8.0\Problem Komiwojażera.exe
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\bin\Debug\net8.0\Problem Komiwojażera.deps.json
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\bin\Debug\net8.0\Problem Komiwojażera.runtimeconfig.json
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\bin\Debug\net8.0\Problem Komiwojażera.dll
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\bin\Debug\net8.0\Problem Komiwojażera.pdb
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.dll
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\refint\Problem Komiwojażera.dll
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.pdb
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\Problem Komiwojażera.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Algorytmy\Problem Komiwojażera\obj\Debug\net8.0\ref\Problem Komiwojażera.dll
